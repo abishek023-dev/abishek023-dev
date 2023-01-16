@@ -43,5 +43,6 @@ Hey there!Myself Abishek. I am a sophomore at IIIT Bhubaneshwar CSE Branch. I am
 
 ### 📈 GitHub Stats 
 
-[![AB's github stats](https://github-readme-stats.vercel.app/api?username=abishek023&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abishek023&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+| <a href="https://github.com/abishek023/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abishek023&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Abishek's github stats" /></a> | <a href="https://github.com/abishek023/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abishek023&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
