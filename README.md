@@ -27,16 +27,16 @@ Hey there!Myself Abishek. I am a sophomore at IIIT Bhubaneshwar CSE Branch. I am
 <p float="left">
 <img style="padding:5px;" align="center" alt="Ethereum" width="35px" src="https://miro.medium.com/max/600/1*rAlxkafC6fgr3tASJxwasg.png">
 <img style="padding:5px;" align="center" alt="Solidity" width="35px" src="https://tintinweb.gallerycdn.vsassets.io/extensions/tintinweb/vscode-solidity-flattener/0.0.11/1647941306788/Microsoft.VisualStudio.Services.Icons.Default">
-<img style="padding:5px;" align="center" alt="ReactJs" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-<img style="padding:5px;" align="center" alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
-<img style="padding:5px;" align="center" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img style="padding:5px;" align="center" alt="C" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
-<img style="padding:5px;" align="center" alt="C++" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-<img style="padding:5px;" align="center" alt="HTML" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img style="padding:5px;" align="center" alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img style="padding:5px;" align="center" alt="BootStrap" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-<img style="padding:5px;" align="center" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img style="padding:5px;" align="center" alt="VS Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+<img style="padding:5px;" align="center" alt="ReactJs" width="35px" src="https://shethink.in/wp-content/uploads/2021/07/react.js-img.png">
+<img style="padding:5px;" align="center" alt="Java" width="35px" src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png">
+<img style="padding:5px;" align="center" alt="JavaScript" width="35px" src="https://www.citypng.com/public/uploads/preview/js-javascript-round-logo-icon-png-11662226392lsrrajcm0y.png">
+<img style="padding:5px;" align="center" alt="C" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png">
+<img style="padding:5px;" align="center" alt="C++" width="35px" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png">
+<img style="padding:5px;" align="center" alt="HTML" width="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU">
+<img style="padding:5px;" align="center" alt="CSS" width="35px" src="https://w7.pngwing.com/pngs/4/808/png-transparent-css3-css3-logo-logo-language-programming-language-css-3d-icon.png">
+<img style="padding:5px;" align="center" alt="BootStrap" width="35px" src="https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo.png">
+<img style="padding:5px;" align="center" alt="Git" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png">
+<img style="padding:5px;" align="center" alt="VS Code" width="35px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png">
 </p>
 
 ---
