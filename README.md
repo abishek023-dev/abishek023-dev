@@ -1,9 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+It's+been+a+while+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1>
+  Hey There
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</div>
+  </h1>
+  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+Myself Abishek. I am a sophomore at IIIT Bhubaneshwar CSE Branch. I am currently leraning about solidity smart contracts to interact with the ethereum blockchain and also about using the react JS framework to build a frontend for user to interacts with my dapps. I am also interested in competitive coding and primarily use C++ , Java while solving problems. In case you feel that we might be able to collaborate in a any project feel free to reach out to me. Have a great Day Ahead!!!!!
 
-Hey there!Myself Abishek. I am a sophomore at IIIT Bhubaneshwar CSE Branch. I am currently leraning about solidity smart contracts to interact with the ethereum blockchain and also about using the react JS framework to build a frontend for user to interacts with my dapps. I am also interested in competitive coding and primarily use C++ , Java while solving problems. In case you feel that we might be able to collaborate in a any project feel free to reach out to me. Have a great Day Ahead!!!!!
 
 [![My portfolio](https://img.shields.io/static/v1?label=MY&message=PORTFOLIO&color=gray)](https://abishekupadhyay202.wixsite.com/abishek-upadhyay)
----
 
 ### ⚡️ A quick introduction
 
@@ -11,7 +19,6 @@ Hey there!Myself Abishek. I am a sophomore at IIIT Bhubaneshwar CSE Branch. I am
 - 🌱 I am currently learning Solidity. 
 - 💼 I am open to freelancing projects.
 - 😝 Fun-Fact: I describe coding as a hobby.
-
 ---
 
 ### 🤝🏻 Connect, Follow, Subscribe
@@ -19,7 +26,6 @@ Hey there!Myself Abishek. I am a sophomore at IIIT Bhubaneshwar CSE Branch. I am
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abishek-upadhyay-623026228)
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/abishek2310)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhi_shake_2310/)
-
 ---
 
 ### 💻 Languages, Frameworks, Tools
@@ -41,8 +47,16 @@ Hey there!Myself Abishek. I am a sophomore at IIIT Bhubaneshwar CSE Branch. I am
 
 ---
 
+### GitHub Trophy Profile
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Google-Ka-Dinosaur&theme=discord)
+---
 ### 📈 GitHub Stats 
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Google-Ka-Dinosaur&theme=dark&background=000000)](https://git.io/streak-stats)
 
-| <a href="https://github.com/Google-Ka-Dinosaur/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Google-Ka-Dinosaur&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Abishek's github stats" /></a> | <a href="https://github.com/Google-Ka-Dinosaur/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Google-Ka-Dinosaur&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Google-Ka-Dinosaur&show_icons=true&theme=radical)
+
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Google-Ka-Dinosaur&layout=compact&theme=blue-green)
+
+![Snake animation](https://github.com/Google-Ka-Dinosaur/Google-Ka-Dinosaur/blob/output/github-contribution-grid-snake.svg)
