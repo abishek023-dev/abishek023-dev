@@ -59,4 +59,3 @@ Myself Abishek. I am a sophomore at IIIT Bhubaneshwar CSE Branch. I am currently
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Google-Ka-Dinosaur&layout=compact&theme=blue-green)
 
-![Snake animation](https://github.com/Google-Ka-Dinosaur/Google-Ka-Dinosaur/blob/output/github-contribution-grid-snake.svg)
