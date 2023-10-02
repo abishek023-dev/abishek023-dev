@@ -8,7 +8,7 @@
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-Myself Abishek. I am a sophomore at IIIT Bhubaneshwar CSE Branch. I am currently leraning about solidity smart contracts to interact with the ethereum blockchain and also about using the react JS framework to build a frontend for user to interacts with my dapps. I am also interested in competitive coding and primarily use C++ , Java while solving problems. In case you feel that we might be able to collaborate in a any project feel free to reach out to me. Have a great Day Ahead!!!!!
+Myself Abishek. I am a sophomore at IIIT Bhubaneshwar CSE Branch. I am currently learning about solidity smart contracts to interact with the ethereum blockchain and also about using the react JS framework to build a frontend for user to interacts with my dapps. I am also interested in competitive coding and primarily use C++ , Java while solving problems. In case you feel that we might be able to collaborate in a any project feel free to reach out to me. Have a great Day Ahead!!!!!
 
 
 [![My portfolio](https://img.shields.io/static/v1?label=MY&message=PORTFOLIO&color=gray)](https://abishekupadhyay202.wixsite.com/abishek-upadhyay)
