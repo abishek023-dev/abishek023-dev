@@ -8,8 +8,7 @@
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-Myself Abishek. I am a sophomore at IIIT Bhubaneshwar CSE Branch. I am currently learning about solidity smart contracts to interact with the ethereum blockchain and also about using the react JS framework to build a frontend for user to interacts with my dapps. I am also interested in competitive coding and primarily use C++ , Java while solving problems. In case you feel that we might be able to collaborate in a any project feel free to reach out to me. Have a great Day Ahead!!!!!
-
+Hello! I'm Abishek, a final-year Computer Science student at IIIT Bhubaneswar. I'm a blockchain developer skilled in writing smart contracts in Solidity to interact with the Ethereum blockchain, and I use React.js to create frontends for users to engage with my dApps. I’m also passionate about competitive programming, primarily working in C++ and Java for problem-solving. Additionally, I’m learning machine learning and always eager to collaborate on exciting projects. Feel free to reach out if you'd like to work together. Have a great day ahead!
 
 [![My portfolio](https://img.shields.io/static/v1?label=MY&message=PORTFOLIO&color=gray)](https://abishekupadhyay202.wixsite.com/abishek-upadhyay)
 
