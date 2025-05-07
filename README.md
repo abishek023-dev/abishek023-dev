@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Abishek Upadhyay  
 🎓 **Final-year CSE student @ IIIT Bhubaneswar**  
 
-💻 **Software Developer Intern @ BigBinary**  
+💻 **SDE Trainee @Meesho**  
 🔍 **Prev: Intern @ Dell Technologies** → Built an **LLM-based query platform** and optimized **ML models** for logistical predictions.  
 🌐 **Blockchain Enthusiast** → Skilled in **Solidity**, building **smart contracts** on **Ethereum** with **React.js** frontends.  
 🚀 **Cloud & DevOps Learner** → Currently diving into **AWS and scalable cloud solutions**.  
